@@ -1,0 +1,1 @@
+# SoC-Algorithmic-Trading-Mid-term-report
